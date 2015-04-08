@@ -2,3 +2,5 @@
 Customize XFCE
 
 - make real borders
+
+./customize.sh
